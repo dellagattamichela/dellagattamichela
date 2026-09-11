@@ -34,8 +34,8 @@ I build secure, scalable web applications, and I'm most curious about what happe
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Michecosa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781&icon_color=2DA44E" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Michecosa&layout=compact&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=dellagattamichela&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781&icon_color=2DA44E" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dellagattamichela&layout=compact&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781" height="165" />
 
 </div>
 
