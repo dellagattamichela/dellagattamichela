@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Michecosa/Michecosa/main/header-terminal.svg?v=2" alt="Michela - computer science student at UniNA, software developer" />
+<img src="https://raw.githubusercontent.com/Michecosa/Michecosa/main/header-terminal.svg?v=3" alt="Michela - computer science student at UniNA, software developer" />
 
 </div>
 
