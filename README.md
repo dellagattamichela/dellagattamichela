@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Michecosa/Michecosa/main/header-terminal.svg?v=3" alt="Michela - computer science student at UniNA, software developer" />
+<img src="https://raw.githubusercontent.com/dellagattamichela/dellagattamichela/main/header-terminal.svg?v=3" alt="Michela - computer science student at UniNA, software developer" />
 
 </div>
 
@@ -37,9 +37,9 @@ I build secure, scalable web applications, and I'm most curious about what happe
 <img src="https://github-readme-stats.shion.dev/api?username=dellagattamichela&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781&icon_color=2DA44E" height="165" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dellagattamichela&layout=compact&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=2DA44E&text_color=6E7781" height="165" />
 
+<br>
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=dellagattamichela&label=Profile%20views&color=2DA44E&style=flat-square)
+
 </div>
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michela-della-gatta)
-[![Email](https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:michedellagatta@gmail.com)
